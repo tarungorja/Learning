@@ -3,3 +3,4 @@
 **/.vscode
 **/venv
 Comands.txt
+node_modules
